@@ -4,3 +4,6 @@ Do the images you generate look like AI slop with plastic skin?  Those workflows
 The upscaling step has been removed, and the model has been swapped for the int8.convrot version of Z-Image Turbo.
 
 You can easily add it to KREA 2 Turbo and Qwen-Image-Edit workflows, with only a small increase in processing time.
+
+
+More about it: https://h2logs.substack.com/p/fix-plastic-skin-krea-2-turbo-and
